@@ -7,9 +7,7 @@ div img{
   margin:0 auto;
   display: block;
 }
-div img:nth-child(1){
-  margin-top:2px;
-}
+
 .fixed1{
   position: fixed;
   right:100px;
